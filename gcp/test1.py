@@ -1,1 +1,1 @@
-fgyhujhytgf
+print ("hello")
